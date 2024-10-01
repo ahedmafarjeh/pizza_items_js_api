@@ -1,0 +1,22 @@
+
+.header{
+  text-align: center;
+}
+.container{
+  width: 80%;
+  margin: auto;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+
+}
+.item{
+  width: 20%;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
